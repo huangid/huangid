@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Yi (Emma) Huang, a Computer Engineering & Computer Science student at University of Wisconsin-Madison.
+I'm Yi (Emma) Huang, a Computer Engineering & Computer Science student at the University of Wisconsin-Madison.
 
 🚀 Tech I use:
 - Java, C/C++

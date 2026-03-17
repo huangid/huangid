@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Yi (Emma) Huang, a Computer Engineering & Computer Science student at University of Wisconsin-Madison.
+
+🚀 Tech I use:
+- Java, C/C++
+- HTML, CSS
+- SystemVerilog
+- Git, Linux
+
+🌱 Currently exploring:
+- Robotics
+- Machine Learning
+- Embedded Systems
+
+💡 Interested in applying ML to real-world systems and hardware-integrated applications
